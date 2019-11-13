@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LumiMonitor</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="track_temperature">Track temperature</string>
+    <string name="interact_over_voice_with_baby">Interact over voice with baby</string>
+    <string name="adjust_lighting">Adjust lighting</string>
+    <string name="contact_us">Contact us</string>
+    <string name="Username">Enter your email</string>
+    <string name="Password">Password</string>
+    <string name="Login_button">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_account">Create an account</string>
+    <string name="sign_up">Sign up</string>
+    <!--strings for the signup activity -->
+    <string name="email">Enter your email</string>
+    <string name="password">Enter your password</string>
+    <string name="password_again">Enter your password again</string>
+   <string name="ret">Return</string>
+
+</resources>
