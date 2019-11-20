@@ -3,7 +3,7 @@
     <string name="title_activity_menu">Menu</string>
     <string name="track_temperature">Track temperature</string>
     <string name="interact_over_voice_with_baby">Interact over voice with baby</string>
-    <string name="adjust_lighting">Adjust lighting</string>
+
     <string name="contact_us">Contact us</string>
     <string name="Username">Enter your email</string>
     <string name="Password">Password</string>
@@ -15,6 +15,29 @@
     <string name="email">Enter your email</string>
     <string name="password">Enter your password</string>
     <string name="password_again">Enter your password again</string>
-   <string name="ret">Return</string>
+    <string name="ret">Return</string>
+    <string name="settings">Settings</string>
+    <string name="adjust_lighting">Light/Luminosity Controls</string>
+    <!--Strings for the adjustlighting_settings page -->
+    <string name="adjust_lighting_settings_header">Lighting Settings</string>
+    <string name="adjust_lighting_settings_header2">Manual Mode</string>
+    <string name="light_turnon">Swipe to turn light on manually</string>
+    <string name="adjust_brightness">Adjust brightness</string>
+    <string name="time_seq">Adjust timing sequence</string>
+    <string name="back">Back</string>
+
+    <!--Contacts resources -->
+    <string name="contact">Feedback Page</string>
+    <string name="body1">Leave a feedback for our customers:</string>
+    <string name="comments">Comments and Feedback on app</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="contactinfo">Contact Information</string>
+    <string name="contact_email">Email:</string>
+    <string name="emailinfo">LumiProject@humber.ca</string>
+
+    <!--voice resources -->
+    <string name="voice_channel">Activate speaking channel</string>
+    <string name="Babyvoice">Baby voice level:</string>
+    <string name="parentvoice">Parent voice level:</string>
 
 </resources>

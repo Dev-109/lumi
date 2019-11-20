@@ -67,15 +67,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
-
-
-
-
-
-
-
-
     public void openMenu1(){
         Intent intent = new Intent(this, Menu1.class);
         startActivity(intent);

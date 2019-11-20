@@ -19,13 +19,12 @@
         android:text="@string/track_temperature"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0" />
 
     <Button
-        android:id="@+id/button2"
+        android:id="@+id/voice"
         android:layout_width="247dp"
         android:layout_height="65dp"
         android:layout_marginStart="8dp"
@@ -38,7 +37,7 @@
         app:layout_constraintTop_toBottomOf="@+id/button" />
 
     <Button
-        android:id="@+id/button3"
+        android:id="@+id/light"
         android:layout_width="247dp"
         android:layout_height="65dp"
         android:layout_marginStart="8dp"
@@ -47,17 +46,17 @@
         android:text="@string/adjust_lighting"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button2" />
+        app:layout_constraintTop_toBottomOf="@+id/voice" />
 
     <Button
-        android:id="@+id/button5"
+        android:id="@+id/contact"
         android:layout_width="247dp"
         android:layout_height="65dp"
         android:text="@string/contact_us"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/button3"
+        app:layout_constraintTop_toBottomOf="@+id/light"
         app:layout_constraintVertical_bias="0.287" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
